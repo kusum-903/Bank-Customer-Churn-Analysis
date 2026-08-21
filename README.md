@@ -15,30 +15,8 @@ Power BI
 Power Query
 DAX
 Data Visualization
-Project Structure
-Bank-Customer-Churn-Analysis/
-│
-├── churn rate.pbix
-│
-├── data/
-│   └── raw/
-│       ├── Bank_Churn.csv
-│       ├── Bank_Churn_Data_Dictionary.csv
-│       └── Bank_Churn_Messy.xlsx
-│
-├── python/
-│   ├── eda.py
-│   ├── explore_dataset.py
-│   └── import_to_sql.py
-│
-├── sql/
-│   └── sql_churn_analysis.sql
-│
-└── screenshots/
-    ├── Executivedashboard.png
-    ├── business insights (1).png
-    └── business insights (2).png
-Dashboard Features
+
+
 
 The Power BI dashboard includes:
 
