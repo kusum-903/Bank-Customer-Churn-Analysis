@@ -87,4 +87,4 @@ Identifies high-risk customer segments and provides actionable recommendations.
 
 ### Business Insights
 
-![Business Insights](screenshots/busines_insights%20(1).png)
+![Business Insights](screenshots/business_insights.png)
