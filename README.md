@@ -79,16 +79,12 @@ Identifies high-risk customer segments and provides actionable recommendations.
 ## Dashboard Preview
 
 ### Executive Summary
-
-![Executive Summary](screenshots/Executivedashboard.png)
+![Executive Summary](screenshots/ExecutiveDashboard.png)
 
 ### Customer Analysis
-
-![Customer Analysis](screenshots/business%20insights%20(1).png)
+![Customer Analysis](screenshots/CustomerAnalysis.png)
 
 ### Business Insights
-
-![Business Insights](screenshots/business%20insights%20(2).png)
-
+![Business Insights](screenshots/BusinessInsights.png)
 ---
 
