@@ -75,16 +75,16 @@ Identifies high-risk customer segments and provides actionable recommendations.
 - Focus retention efforts on high-risk age and credit-score segments.
 
 ---
-
 ## Dashboard Preview
 
 ### Executive Summary
-![Executive Summary](screenshots/ExecutiveDashboard.png)
+
+![Executive Summary](screenshots/Executive_dashboard.png)
 
 ### Customer Analysis
-![Customer Analysis](screenshots/CustomerAnalysis.png)
+
+![Customer Analysis](screenshots/customer_demographics.png)
 
 ### Business Insights
-![Business Insights](screenshots/BusinessInsights.png)
----
 
+![Business Insights](screenshots/busines_insights%20(1).png)
